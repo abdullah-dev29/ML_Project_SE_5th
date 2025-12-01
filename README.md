@@ -97,7 +97,7 @@ Google Colab already includes most of these libraries preinstalled.
    * `L_GTA_BASE_TOURISM.ipynb`
 3. Open the notebook in Jupyter or Google Colab.
 4. Run the notebook from top to bottom.
-5. The notebook automatically accesses the LGTA folder located beside it.
+5. Along with the notebook access the LGTA folder located beside it.
 
 ### **5.2 Running the Improved Lightweight LGTA Model**
 
