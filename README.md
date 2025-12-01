@@ -36,16 +36,18 @@ All results and explanations are included inside our Research_Paper.pdf.
 ## **3. Repository Structure**
 
 ```
-/lgta_base
-    ├── LGTA_original_base/           → Original LGTA code folder used for the base model
-    └── L_GTA_BASE_TOURISM.ipynb      → Notebook running the base LGTA on Tourism dataset
+/lgta_Project
+   /lgta_base
+      ├── LGTA_original_base/           → Original LGTA code folder used for the base model
+      └── L_GTA_BASE_TOURISM.ipynb      → Notebook running the base LGTA on Tourism dataset
 
-/lgta_improved
-    ├── LGTA_original_improved/       → Modified LGTA folder used for the lightweight version
-    └── L_GTA_IMPROVED.ipynb          → Notebook with the improved model
+   /lgta_improved
+      ├── LGTA_original_improved/       → Modified LGTA folder used for the lightweight version
+      └── L_GTA_IMPROVED.ipynb          → Notebook with the improved model
 
 Research_Paper.pdf                     → Final project paper
 README.md
+.gitattributes (Git LFS setup)
 ```
 
 This structure keeps the project simple and allows any reviewer to open the required folder and run the notebook directly.
