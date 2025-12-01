@@ -1,0 +1,9 @@
+{
+  "Model": "CNN-GRU (Lightweight Latent Modeling)",
+  "Parameters": 10533814,
+  "Reconstruction_MSE": 18149.141097406427,
+  "Reconstruction_MAE": 56.056715699765626,
+  "Training_Time_sec": "N/A",
+  "Dataset": "tourism",
+  "Frequency": "M"
+}
