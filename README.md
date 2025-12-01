@@ -162,7 +162,7 @@ Detailed explanation is available in **Research_Paper.pdf**.
 
 ---
 
-## **8. Project Files**
+## **8. Project File**
 
 * **Research_Paper.pdf** – our final research paper covering:
 
