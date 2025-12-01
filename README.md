@@ -179,9 +179,9 @@ Detailed explanation is available in **Research_Paper.pdf**.
 
 This project was completed by:
 
-* **Abdullah Awan – CMS 62724**
-* **Muhammad Mutahar – CMS 63513**
-* **Muhammad Borhan ud Din – CMS 63206**
+* **Abdullah – CMSID 62724**
+* **Muhammad Mutahar – CMSID 63513**
+* **Muhammad Borhan ud Din – CMSID 63206**
 
 We worked together on studying the original LGTA, preparing the dataset, modifying the model, evaluating results, and writing the research paper.
 
