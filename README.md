@@ -164,14 +164,17 @@ Detailed explanation is available in **Research_Paper.pdf**.
 
 ## **8. Project Files**
 
-* **Project_1.pdf** – instructions provided for this course project.
 * **Research_Paper.pdf** – our final research paper covering:
 
-  * introduction
-  * methodology
-  * experiments
-  * results
-  * conclusion
+  * Abstract
+  * Introduction
+  * Related Work
+  * Methodology (Base L-GTA + Proposed Improvement)
+  * Experimental Setup
+  * Results and Discussion
+  * Comparative Analysis (with Base Paper)
+  * Conclusion and Future Work
+  * References
 
 ---
 
