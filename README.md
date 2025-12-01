@@ -89,7 +89,7 @@ Google Colab already includes most of these libraries preinstalled.
 1. Open the folder:
 
    ```
-   /base
+   /lgta_base
    ```
 2. Make sure the folder contains:
 
@@ -104,7 +104,7 @@ Google Colab already includes most of these libraries preinstalled.
 1. Open:
 
    ```
-   /improved
+   /lgta_improved
    ```
 2. Ensure it contains:
 
