@@ -36,15 +36,14 @@ All results and explanations are included inside our Research_Paper.pdf.
 ## **3. Repository Structure**
 
 ```
-/base
+/lgta_base
     ├── LGTA_original_base/           → Original LGTA code folder used for the base model
     └── L_GTA_BASE_TOURISM.ipynb      → Notebook running the base LGTA on Tourism dataset
 
-/improved
+/lgta_improved
     ├── LGTA_original_improved/       → Modified LGTA folder used for the lightweight version
     └── L_GTA_IMPROVED.ipynb          → Notebook with the improved model
 
-Project_1.pdf                          → Course project file
 Research_Paper.pdf                     → Final project paper
 README.md
 ```
